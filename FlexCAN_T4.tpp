@@ -27,7 +27,7 @@
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
   SOFTWARE.
 */
-#include <FlexCAN_T4.h>
+#include "FlexCAN_T4.h"
 #include "imxrt_flexcan.h"
 #include "Arduino.h"
 
